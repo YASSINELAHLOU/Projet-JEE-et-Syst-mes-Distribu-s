@@ -23,3 +23,7 @@
 
 ## 7 Bill Service - get bill by id
 ![image](https://user-images.githubusercontent.com/85079209/220144622-f01cdaf0-21d7-4a50-a4c5-3f70465a9891.png)
+
+## 8 Eureka Service 
+![image](https://user-images.githubusercontent.com/85079209/220170119-5ce1508c-e9ae-4485-8844-5ec51daff406.png)
+![image](https://user-images.githubusercontent.com/85079209/220170428-e0ee6557-0a67-435a-a9c3-b0c70622b8c6.png)
