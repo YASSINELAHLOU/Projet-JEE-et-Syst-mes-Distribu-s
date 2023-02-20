@@ -21,5 +21,5 @@
 ## 6 Bill Service - get bills
 ![image](https://user-images.githubusercontent.com/85079209/220144371-5b365935-223c-49f6-828c-8c3074f3d81b.png)
 
-# 7 Bill Service - get bill by id
+ 7 Bill Service - get bill by id
 ![image](https://user-images.githubusercontent.com/85079209/220144622-f01cdaf0-21d7-4a50-a4c5-3f70465a9891.png)
