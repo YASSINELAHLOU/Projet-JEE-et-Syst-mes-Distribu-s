@@ -55,4 +55,62 @@
 ![image](https://user-images.githubusercontent.com/85079209/220173093-58064b96-8255-4988-b47c-c12831dbb736.png)
 
 ## 2 Edit Customer
+![image](https://user-images.githubusercontent.com/85079209/220196846-d0a2bc45-df82-4aea-9db1-7891cade585b.png)
 
+## 3 Delete Customer 
+![image](https://user-images.githubusercontent.com/85079209/220208928-d2810661-bfcd-4a98-af4c-0de8c4902574.png)
+
+## 5 New Customer 
+![image](https://user-images.githubusercontent.com/85079209/220209419-b840ccea-c0ce-4654-82f0-31c68f4fb65c.png)
+
+
+## Bills
+## Show Bills  
+![image](https://user-images.githubusercontent.com/85079209/220209550-9f1a2dff-6470-4f9b-8af7-6ec44033d9a5.png)
+
+
+# III Secured Angular Client with keycloak 
+## 1 Setup
+## 2 Postman
+![image](https://user-images.githubusercontent.com/85079209/220210316-a6c279b5-f5bf-4f8c-8fd8-50b87e792980.png)
+
+## 3 Refresh Token
+![image](https://user-images.githubusercontent.com/85079209/220210476-d5248c90-0f0d-4a65-a362-b33256e060b8.png)
+
+## 4 Client Auth Credentials
+![image](https://user-images.githubusercontent.com/85079209/220210600-ca988b46-489c-4e18-9049-1f5b613d52b8.png)
+
+# IV. KAFKA :
+## 1. SUPPLIER
+
+![image](https://user-images.githubusercontent.com/73041687/219654966-8ed99356-f63b-449b-b782-480121de32f6.png)
+
+![image](https://user-images.githubusercontent.com/73041687/219687628-a8c20cbe-a87a-4375-9636-b932406c01ac.png)
+
+
+## 2. CONSUMER
+
+![image](https://user-images.githubusercontent.com/73041687/219677290-25fc52df-3a92-4a65-8e3e-dbf559b2f1de.png)
+
+## 3. KAFKA STREAMS 
+
+![image](https://user-images.githubusercontent.com/73041687/219668084-72ac27e1-849e-4fe5-bec0-9eb63685b965.png)
+
+
+
+# V. DOCKER :
+
+## BILLING-SERVICE 
+![image](https://user-images.githubusercontent.com/73041687/219697077-feed41f4-1a89-45e8-9206-19451d6dc80a.png)
+## INVENTORY-SERVICE
+![image](https://user-images.githubusercontent.com/73041687/219698461-5131e970-68b0-4978-a159-a0c628cdb856.png)
+
+![image](https://user-images.githubusercontent.com/73041687/219706814-b5b679ad-30b0-4848-a57c-743ddd0b2798.png)
+## CUSTOMER-SERVICE
+![1](https://user-images.githubusercontent.com/84048380/219879470-280f20b5-64ba-40ef-b1d1-efbcf85222ba.png)
+## GATEWAY-SERVICE
+![2](https://user-images.githubusercontent.com/84048380/219879477-5aabf372-83ce-425f-91ce-1b7229f4e183.png)
+## EUREKA-DISCOVERY
+![3](https://user-images.githubusercontent.com/84048380/219879489-cf5be4ef-21dd-4591-a6fe-729d264c99bc.png)
+## FRONTEND
+![4](https://user-images.githubusercontent.com/84048380/219879497-61682b3a-19cc-4aba-b753-9088da73a10e.png)
