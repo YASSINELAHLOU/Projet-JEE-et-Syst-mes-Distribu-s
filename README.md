@@ -50,4 +50,9 @@
 ![image](https://user-images.githubusercontent.com/85079209/220172144-a11804c5-751d-4386-a662-1eadb61b7c28.png)
 ![image](https://user-images.githubusercontent.com/85079209/220172330-d3646440-469a-4c2f-8762-0865e43c3e68.png)
 
+## Customers
+## 1 Show all customer
+![image](https://user-images.githubusercontent.com/85079209/220173093-58064b96-8255-4988-b47c-c12831dbb736.png)
+
+## 2 Edit Customer
 
