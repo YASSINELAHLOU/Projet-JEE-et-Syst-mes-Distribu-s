@@ -1,6 +1,6 @@
 #                                                         Projet Final Spring cloud
 # I. Backend :
-   [1. use case](#1-use-case)
+  * [1. use case](#1-use-case)
   * [2 Inventory service - get all products](#2-inventory-service---get-all-products)
   * [3 Inventory service - get product by ID](#3-inventory-service---get-product-by-id)
   * [4 Customer Service - get All Customers](#4-customer-service---get-all-customers)
