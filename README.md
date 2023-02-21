@@ -70,7 +70,7 @@
 
 
 # III Client angulaire sécurisé avec keycloak
-## 1 Installation
+## 1 Setup
 ## 2 Postman
 ![image](https://user-images.githubusercontent.com/85079209/220210316-a6c279b5-f5bf-4f8c-8fd8-50b87e792980.png)
 
