@@ -32,56 +32,56 @@
 ## Login screen 
 ![image](https://user-images.githubusercontent.com/85079209/220171048-ee85e810-a61a-4a61-8181-91e4b5ffff45.png)
 
-## Products
-## 1 Show all products 
+## Les produits
+## 1 Afficher tous les produits
 ![image](https://user-images.githubusercontent.com/85079209/220171278-5a0e640f-0aab-42ee-938d-d424184bff35.png)
 
-## 2 Edit products 
+## 2 Modifier les produits
 ![image](https://user-images.githubusercontent.com/85079209/220171446-d966aaab-f93c-4c3b-aebe-714fcb2221d6.png)
 
-## 3 Delete products 
+## 3 Supprimer des produits
 ![image](https://user-images.githubusercontent.com/85079209/220171734-3f32f1b9-1a46-423b-8b4a-063ae91f194b.png)
 ![image](https://user-images.githubusercontent.com/85079209/220171811-0bf59ad8-a397-4a48-ad1c-c978a913ec3c.png)
 
-## 4 Search for a product
+## 4 Rechercher un produit
 ![image](https://user-images.githubusercontent.com/85079209/220172014-e7ce5ce8-419d-4436-bd7a-13d468d72a7b.png)
 
-## 5 New Product
+## 5 Nouveau produit
 ![image](https://user-images.githubusercontent.com/85079209/220172144-a11804c5-751d-4386-a662-1eadb61b7c28.png)
 ![image](https://user-images.githubusercontent.com/85079209/220172330-d3646440-469a-4c2f-8762-0865e43c3e68.png)
 
-## Customers
+## Clients
 ## 1 Show all customer
 ![image](https://user-images.githubusercontent.com/85079209/220173093-58064b96-8255-4988-b47c-c12831dbb736.png)
 
-## 2 Edit Customer
+## 2 Modifier le client
 ![image](https://user-images.githubusercontent.com/85079209/220196846-d0a2bc45-df82-4aea-9db1-7891cade585b.png)
 
-## 3 Delete Customer 
+## 3 Supprimer le client
 ![image](https://user-images.githubusercontent.com/85079209/220208928-d2810661-bfcd-4a98-af4c-0de8c4902574.png)
 
-## 5 New Customer 
+## 5 Nouveau client
 ![image](https://user-images.githubusercontent.com/85079209/220209419-b840ccea-c0ce-4654-82f0-31c68f4fb65c.png)
 
 
-## Bills
-## Show Bills  
+## Factures
+## Afficher les factures 
 ![image](https://user-images.githubusercontent.com/85079209/220209550-9f1a2dff-6470-4f9b-8af7-6ec44033d9a5.png)
 
 
-# III Secured Angular Client with keycloak 
-## 1 Setup
+# III Client angulaire sécurisé avec keycloak
+## 1 Installation
 ## 2 Postman
 ![image](https://user-images.githubusercontent.com/85079209/220210316-a6c279b5-f5bf-4f8c-8fd8-50b87e792980.png)
 
 ## 3 Refresh Token
 ![image](https://user-images.githubusercontent.com/85079209/220210476-d5248c90-0f0d-4a65-a362-b33256e060b8.png)
 
-## 4 Client Auth Credentials
+## 4 Identifiants d'authentification du client
 ![image](https://user-images.githubusercontent.com/85079209/220210600-ca988b46-489c-4e18-9049-1f5b613d52b8.png)
 
 # IV. KAFKA :
-## 1. SUPPLIER
+## 1. FOURNISSEUR
 
 ![image](https://user-images.githubusercontent.com/73041687/219654966-8ed99356-f63b-449b-b782-480121de32f6.png)
 
