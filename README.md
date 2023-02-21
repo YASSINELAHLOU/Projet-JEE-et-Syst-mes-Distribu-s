@@ -39,7 +39,7 @@
 ## 2 Modifier les produits
 ![image](https://user-images.githubusercontent.com/85079209/220171446-d966aaab-f93c-4c3b-aebe-714fcb2221d6.png)
 
-## 3 Supprimer des produits
+## 3 Supprimer les produits
 ![image](https://user-images.githubusercontent.com/85079209/220171734-3f32f1b9-1a46-423b-8b4a-063ae91f194b.png)
 ![image](https://user-images.githubusercontent.com/85079209/220171811-0bf59ad8-a397-4a48-ad1c-c978a913ec3c.png)
 
