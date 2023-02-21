@@ -51,7 +51,7 @@
 ![image](https://user-images.githubusercontent.com/85079209/220172330-d3646440-469a-4c2f-8762-0865e43c3e68.png)
 
 ## Clients
-## 1 Show all customer
+## 1 Afficher tous les clients
 ![image](https://user-images.githubusercontent.com/85079209/220173093-58064b96-8255-4988-b47c-c12831dbb736.png)
 
 ## 2 Modifier le client
